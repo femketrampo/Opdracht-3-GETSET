@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht-3-GETSET", "Opdracht-3-GETSET\Opdracht-3-GETSET.csproj", "{1FDC0504-8362-49E5-866E-1EBB25E1DA5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FDC0504-8362-49E5-866E-1EBB25E1DA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDC0504-8362-49E5-866E-1EBB25E1DA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDC0504-8362-49E5-866E-1EBB25E1DA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDC0504-8362-49E5-866E-1EBB25E1DA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AEA3E1E-46B4-456B-8828-A7D106358DA4}
+	EndGlobalSection
+EndGlobal
